@@ -10,7 +10,6 @@ import telas.conexion.Conexion;
 
 public class InterfazTelas extends javax.swing.JFrame {
 
-	private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(InterfazTelas.class.getName());
 	private static int id;
 	private static int fila;
 	private static int filasAfectadas;
